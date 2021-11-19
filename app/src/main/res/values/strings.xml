@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Data Teman</string>
+    <string name="judul">DataTeman</string>
+    <string name="profil">Halaman Profil</string>
+    <string name="home">Halaman Beranda</string>
+    <string name="add">Tambah Teman</string>
 </resources>

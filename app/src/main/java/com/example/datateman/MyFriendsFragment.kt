@@ -8,8 +8,10 @@ import androidx.annotation.Nullable
 import androidx.fragment.app.Fragment
 
 class MyFriendsFragment : Fragment() {
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
     }
 
     override fun onCreateView(
