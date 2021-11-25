@@ -4,4 +4,11 @@
     <string name="profil">Halaman Profil</string>
     <string name="home">Halaman Beranda</string>
     <string name="add">Tambah Teman</string>
+    <string name="list">List Teman</string>
+    <string name="nama">Nama</string>
+    <string name="mail">Email</string>
+    <string name="telp">Telp</string>
+    <string name="jkel">Jenis Kelamin</string>
+    <string name="alamat">Alamat</string>
+
 </resources>
