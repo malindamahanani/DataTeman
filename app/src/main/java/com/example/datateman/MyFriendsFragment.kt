@@ -21,6 +21,16 @@ class MyFriendsFragment : Fragment() {
         listTeman.add(MyFriend("Malinda Mahanani","Perempuan",
         "Malinda@stimata.ac.id","0882xxxxxx","Lamongan"))
 
+        listTeman.add(MyFriend(" Mahanani hana","Perempuan",
+            "Malinda@stimata.ac.id","0882xxxxxx","Lamongan"))
+
+        listTeman.add(MyFriend("Hannn", "Perempuan",
+            "Hannn@stimata.com","0882xxxxx", "Lamongan"))
+
+        listTeman.add(MyFriend("Malinda hana","Perempuan",
+            "Malindah@stimata.ac.id","0882xxxxxx","Lamongan"))
+
+
         listTeman.add(MyFriend("Nova eka","Pria",
             "Nova@stimata.ac.id","0882xxxxxx","Lamongan"))
 
